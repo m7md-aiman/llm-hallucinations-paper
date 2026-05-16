@@ -13,7 +13,7 @@
 
 ¹Bahçeşehir University, Istanbul, Turkey
 
-📄 **[Read the paper](./paper.pdf)**
+📄 **[Read the paper](./2026_ICHORA_hallucinations.pdf)**
 
 DOI: *Coming soon (to be added after IEEE Xplore publication)*
 
