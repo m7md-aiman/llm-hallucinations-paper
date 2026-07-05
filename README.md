@@ -15,7 +15,7 @@
 
 📄 **[Read the paper](./2026_ICHORA__hallucinations.pdf)**
 
-DOI: *Coming soon (to be added after IEEE Xplore publication)*
+
 
 ---
 
